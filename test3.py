@@ -1,4 +1,4 @@
-You are given a maze with a width of W and height of H. The maze is configured with either 1 or 0, 1 representing the wall while 0 represents a walkable path. We want to know the shortest path from start-point S to goal G.
+"""You are given a maze with a width of W and height of H. The maze is configured with either 1 or 0, 1 representing the wall while 0 represents a walkable path. We want to know the shortest path from start-point S to goal G.
 Diagonal move is not allowed.
 
  
@@ -39,3 +39,4 @@ output
 Analysis of output value
 In the first example, 2 is outputted since we just need to move right twice.
 In the second example, 6 is outputted since the shortest path is right, right, down, down, left, left.
+"""
